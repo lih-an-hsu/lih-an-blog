@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
+name: 'Lih-Ahn\'s Blog'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'jekyller.github.io/jasper/'
+short_url: 'lih-an-hsu.github.io/lih-an-blog/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /lih-an-blog/
 
 # Permalinks
 permalink: /:title
