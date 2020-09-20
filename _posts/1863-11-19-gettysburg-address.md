@@ -2,12 +2,12 @@
 layout: post
 cover: false
 navigation: false
-title: Gettysburg Address
+title: Test1
 date: 1863-11-19 10:18:00
 tags: fiction
 subclass: 'post tag-fiction'
-author: abraham
-categories: abraham
+author: Lih-An
+categories: test
 ---
 
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
