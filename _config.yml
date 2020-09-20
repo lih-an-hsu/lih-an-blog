@@ -7,10 +7,10 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Lih-Ahn\'s Blog'
+name: 'Lih-Ahn Blog'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'lih-an-hsu.github.io/lih-an-blog/'
+short_url: 'jekyller.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
