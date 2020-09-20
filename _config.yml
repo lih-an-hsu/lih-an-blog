@@ -48,9 +48,9 @@ lsi: false
 username: jekyller
 repo: jasper
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://jekyller.github.io/jasper/
+relative_source: ../lih-an-blog/ 
+destination: ../master/
+production_url:  https://lih-an-hsu.github.io/lih-an-blog/
 source_url:  https://github.com/jekyller/jasper/
 
 exclude:
